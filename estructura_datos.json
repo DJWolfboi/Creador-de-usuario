@@ -1,0 +1,14 @@
+{
+    "usuarios": [
+      {
+        "nombre": "Pedro Martinez",
+        "correo": "pedro423@gmail.com"
+      },
+      {
+        "nombre": "Mario Garcia",
+        "correo": "Mario8000@gmail.com"
+      }
+    ]
+  }
+  
+  

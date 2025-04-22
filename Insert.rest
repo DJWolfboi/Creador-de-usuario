@@ -1,0 +1,16 @@
+### GET info
+GET http://localhost:5000/info
+
+
+### POST crear_usuario
+POST http://localhost:5000/crear_usuario
+Content-Type: application/json
+
+
+    {
+        "nombre": "Mario Garcia",
+        "correo": "Mario8000@gmail.com"
+      }
+
+### GET usuarios
+GET http://localhost:5000/usuarios
